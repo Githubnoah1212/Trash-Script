@@ -1,0 +1,2 @@
+# Trash-Script
+Trash Script
